@@ -1,5 +1,5 @@
 package c2;
-//Ã¶¾Ù
+//æžšä¸¾
 enum Singleton4 {
 	INS;
 	public void method() {

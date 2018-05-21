@@ -1,5 +1,5 @@
 package c2;
-//这是懒汉模式
+//杩欐槸鎳掓眽妯″紡
 public class Singleton1 {
 	private static Singleton1 ins;
 	private Singleton1() {

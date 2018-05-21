@@ -1,5 +1,5 @@
 package c2;
-//¶öººÄ£Ê½
+//é¥¿æ±‰æ¨¡å¼
 public class Singleton2 {
 		private static Singleton2 ins = new Singleton2();
 		private Singleton2() {

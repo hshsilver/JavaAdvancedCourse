@@ -1,5 +1,5 @@
 package c2;
-//静态类内部加载
+//闈欐�佺被鍐呴儴鍔犺浇
 public class Singleton3 {
 	private static class Singleton33{
 		private static Singleton3 ins = new Singleton3();
